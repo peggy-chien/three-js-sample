@@ -26,6 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## CubeComponent Implementation
+## References
 
-Following the instructions in [Hello █████ Cube: THREE.js Scene in Angular](https://medium.com/geekculture/hello-cube-your-first-three-js-scene-in-angular-176c44b9c6c0).
+Following the instructions in [Hello █████ Cube: THREE.js Scene in Angular](https://medium.com/geekculture/hello-cube-your-first-three-js-scene-in-angular-176c44b9c6c0) for cube component implementation.
